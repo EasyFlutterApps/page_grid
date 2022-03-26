@@ -1,9 +1,9 @@
-import 'package:auth_grid/src/body_flex.dart';
+import 'package:page_grid/src/body_flex.dart';
 import 'package:flutter/material.dart';
 import 'package:nil/nil.dart';
 
-class AuthGrid extends StatelessWidget {
-  const AuthGrid({
+class PageGrid extends StatelessWidget {
+  const PageGrid({
     Key? key,
     Widget head = nil,
     required Widget body,

@@ -1,7 +1,7 @@
 name: page_grid
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/EasyFlutterApps/page_grid
 
 environment:
   sdk: ">=2.16.0 <3.0.0"

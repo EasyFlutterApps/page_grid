@@ -1,4 +1,4 @@
-import 'package:auth_grid/auth_grid.dart';
+import 'package:page_grid/page_grid.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -37,7 +37,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Material(
-        child: AuthGrid(
+        child: PageGrid(
           mirror: true,
           mobileFlex: const BodyFlex(footer: 0),
           desktopFlex: const BodyFlex(),
