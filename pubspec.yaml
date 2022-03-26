@@ -2,9 +2,6 @@ name: page_grid
 description: Easy and flexible grid system for Flutter
 version: 0.0.1
 homepage: https://github.com/EasyFlutterApps/page_grid
-authors:
-  - name: Prashant Nigam
-    email: prashantnigam490@gmail.com
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
